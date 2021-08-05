@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to 남희선생님방 Pages
+
+오늘 처음 챗봇을 만들어 봄..
+앞으로의 과정을 기록해 보자
 
 You can use the [editor on GitHub](https://github.com/namhee-sharel/chatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
