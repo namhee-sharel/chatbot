@@ -1,4 +1,4 @@
-## Welcome to 남희선생님방 Pages
+## Welcome to 희쌤방 Pages
 
 오늘 처음 챗봇을 만들어 봄.
 
